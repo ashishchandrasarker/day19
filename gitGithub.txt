@@ -20,7 +20,7 @@ make project and working on it
 2. git add .
 3. git commit -m "commit here"
 4. git remote add origin url
-5. git push --set-upstream origin master
+5. git push --u origin master
 
 ==================================
 
