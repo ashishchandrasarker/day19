@@ -1,0 +1,32 @@
+git download & install(git-scm.com)
+- git --version
+ 
+Git Config
+userName & user Email
+1. git config --global user.email "email id"
+i) for check user email.
+----   git config user.email
+
+userName
+2. git config --global user.name "user name"
+ii) git config user.name
+
+iii) git config --list
+==================================
+make project and working on it
+==================================
+
+1. git init
+2. git add .
+3. git commit -m "commit here"
+4. git remote add origin url
+5. git push --set-upstream origin master
+
+==================================
+
+Existing Project when Modify.
+==================================
+1. git add .
+2. git commit -m "message"
+3. git push
+==================================
